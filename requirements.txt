@@ -1,1 +1,2 @@
 streamlit-extras==0.3.4
+plotly-express=0.4.1
