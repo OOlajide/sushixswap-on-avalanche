@@ -157,7 +157,7 @@ with col_d:
 st.markdown("""
 <p>
   <ul>
-    <li>Adoption of SushiXswap on Avalanche started gradually, with a significant uptick in April 2023, marked by a surge in weekly volume and active users. However, by mid-July, this trend reversed."</li>
+    <li>Adoption of SushiXswap on Avalanche started gradually, with a significant uptick in April 2023, marked by a surge in weekly volume and active users. However, by mid-July, this trend reversed.</li>
     <li>During the period of increased activity, the average and median USD volume showed a declining trend.</li>
     <li>48 percent of SushiXswap users hang around the defi section of Avalanche.</li>
   </ul>
